@@ -1,4 +1,4 @@
-![Mondoo](https://files.cuddletech.com/mondoo-block.png)
+![Mondoo](https://raw.githubusercontent.com/cuddletech/.github/master/profile/mondoo-box-lt.png)
 
 or...
 
